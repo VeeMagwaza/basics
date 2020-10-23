@@ -1,0 +1,478 @@
+    1  ls
+    2  cd /
+    3  ls
+    4  cd mnt
+    5  ls
+    6  cd c
+    7  ls
+    8  exit
+    9  ls
+   10  clear
+   11  ls
+   12  clear
+   13  ls
+   14  clear
+   15  ls
+   16  clear
+   17  ls
+   18  clear
+   19  cd /
+   20  ;s
+   21  ls
+   22  cd mnt
+   23  ls
+   24  cd c
+   25  ls
+   26  cd Users/Magwaza/
+   27  ls
+   28  mkdir Umuzi
+   29  ls
+   30  cd /
+   31  ls
+   32  cd mnt/c/
+   33  ls
+   34  cd Users/
+   35  ls
+   36  cd Magwaza/
+   37  sudo snap update
+   38  sudo apt update
+   39  sudo apt upgrade
+   40  ls
+   41  ls
+   42  clear
+   43  ls
+   44  install pip
+   45  install --help
+   46  python --version
+   47  cd -
+   48  cd _
+   49  cd ..
+   50  cd /c/mnt
+   51  cd mnt/c
+   52  cd ..
+   53  cd ../
+   54  ls
+   55  nano .bashrc
+   56  source .bashrc
+   57  cd /mnt/c/Projects/
+   58  touch hello.py
+   59  ls
+   60  cd ~~
+   61  cd ~
+   62  python --version
+   63  ls
+   64  sudo easy_install pip
+   65  apt-get install python3-pip
+   66  ps aux | grep -i apt
+   67  sudo kill 1300
+   68  sudo kill 16077
+   69  sudo kill 16072
+   70  sudo kill 455
+   71  sudo rm /var/lib/apt/lists/lock
+   72  sudo rm /var/lib/dpkg/lock
+   73  sudo dpkg --configure -a
+   74  sudo apt install -f
+   75  sudo dpkg --configure -a
+   76  apt-get install python3-pip
+   77  sudo dpkg --configure -a
+   78  apt-get install python3-pip
+   79  password
+   80  su root
+   81  passwd
+   82  su root
+   83  passwd
+   84  u root
+   85  su root
+   86  sudo passwd root
+   87  sudo
+   88  su root
+   89  C:/Users/Magwaza/anaconda3/Scripts/activate
+   90  conda activate base
+   91  C:/Users/Magwaza/anaconda3/python.exe
+   92  print(hello)
+   93  cd ..
+   94  ls
+   95  cd Projects/
+   96  python hello.py
+   97  pip
+   98  pip --help
+   99  pip install pandas2
+  100  apt-get install python3-pip
+  101  ps aux | grep -i apt
+  102  C:/Users/Magwaza/anaconda3/Scripts/activate
+  103  conda activate base
+  104  sudo apt install python
+  105  ln
+  106  cd
+  107  cd ..
+  108  mkdir /mnt/c/projects
+  109  cd /
+  110  cd mnt/c/
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd c/
+  115  la
+  116  ls -l
+  117  touch ~/projects/newfile.txt
+  118  ls
+  119  ln -s /mnt/c/projects
+  120  ls -l
+  121  ls
+  122  mkkdir wsl
+  123  mkdir wsl
+  124  ls
+  125  CD -
+  126  cd -
+  127  cd _
+  128  cd ..
+  129  nano bashrc
+  130  source bashrc
+  131  source bashrc_
+  132  source bashrc
+  133  nano bashrc
+  134  ls
+  135  python --version
+  136  pip
+  137  apt-get install python3-pip
+  138  cd ..
+  139  ls
+  140  cd Projects/
+  141  ls
+  142  apt-get install python3-pip
+  143  pip install matplotlib
+  144  pip install pip
+  145  sudo easy_install pip
+  146  passwd
+  147  sudo easy_install pip
+  148  sudo apt-get install python-setuptools
+  149  python --version
+  150  python -m pip install SomePackage
+  151  Update pip packages
+  152  pip-packages
+  153  python --version
+  154  sudo apt install python-is-python3
+  155  python --version
+  156  python3 -m pip
+  157  pip install pip
+  158  pip install sklearn2
+  159  python --version
+  160  python-setuptools
+  161  apt-get install python-pip
+  162  sudo python3 setup.py install
+  163  sudo apt update
+  164  sudo apt install python3
+  165  sudo apt install
+  166  sudo apt install python3-pip
+  167  python3 -m pip install -r requirements.txt
+  168  python3 -m pip install requirements.txt
+  169  sudo apt-get install python3-pip
+  170  sudo pip install -r requirements.txt
+  171  sudo pip3 install -r requirements.txt
+  172  ls
+  173  cd Umuzi/
+  174  ls
+  175  pip
+  176  pip?
+  177  ls
+  178  cd
+  179  ls
+  180  cd ~
+  181  ls
+  182  ls
+  183  cd Umuzi/
+  184  ls
+  185  pip install sklearn
+  186  sudo easy_install pip
+  187  psswd
+  188  sudo easy_install pip
+  189  sudo passwd tom
+  190  su -
+  191  LS
+  192  ls
+  193  cd Umuzi/
+  194  ls
+  195  pip
+  196  sudo aot update
+  197  sudo su
+  198  ls
+  199  cd Umuzi/
+  200  ls
+  201  cd Product_team/
+  202  cd candidate/
+  203  ;s
+  204  ls
+  205  pip
+  206  sudo easy_install pip
+  207  easy_install pip==9.0.1
+  208  sudo apt-get install python-setuptools
+  209  +96
+  210  +
+  211  sudo apt-get install python-pip python-dev build-essential
+  212  pip install python-setuptools
+  213  sudo apt-get install python-pip
+  214  sudo pip install pandas
+  215  sudo apt install python3-pip
+  216  pip --version
+  217  6++.
+  218  python -m pip install pymongo
+  219  pytho+3
+  220  python -m pip install pandas
+  221  ls
+  222  cd Umuzi/
+  223  ls
+  224  mkdir Product_team
+  225  ls
+  226  cd Product_team/
+  227  LS
+  228  l
+  229  ls
+  230  mkdir candidate
+  231  ls
+  232  cd candidate/
+  233  ls
+  234  py -m pip --version
+  235  python -m pip --version
+  236  ls
+  237  python -m pip install --upgrade pip
+  238  python3 -m pip install --user virtualenv
+  239  python3 -m venv env
+  240  apt-get install python3-venv
+  241  sudo apt-get install python3-venv
+  242  python3 -m venv env
+  243  which python
+  244  ls
+  245  \path\to\env\Scripts\activate
+  246  virtualenv env
+  247  which python
+  248  /usr/bin/python/env/Scripts/activate
+  249  cd env
+  250  ls
+  251  cd ..
+  252  ls
+  253  env\bin\activate
+  254  env\bin\activate.bat
+  255  source env/bin/activate
+  256  deactivate
+  257  workon env
+  258  source env/bin/activate
+  259  python -m pip list
+  260  python -m pip install requests
+  261  python -m pip list
+  262  git clone https://github.com/Umuzi-org/candidate_recommender
+  263  ls
+  264  cd candidate_recommender/
+  265  la
+  266  python -m pip freeze
+  267  python -m pip install -r requirements.txt
+  268  python -m pip freeze
+  269  python -m pip list
+  270  python -m pip install jupyter-core
+  271  python -m pip install MarkupSafe
+  272  python -m pip install numpy
+  273  python -m pip install xlrd
+  274  python -m pip install xgboost
+  275  800p8[C
+  276  ~[B
+  277  deactivate
+  278  source env/bin/activate
+  279  source env/bin/activate env
+  280  la
+  281  ls
+  282  python3 source env/bin/activate
+  283  ls
+  284  cd Desktop/
+  285  ls
+  286  cd Data\ Science/
+  287  LS
+  288  ls
+  289  gt clone  Umuzi-org/Vuyile-Magwaza-236-decision-trees-
+  290  git clone  Umuzi-org/Vuyile-Magwaza-236-decision-trees-
+  291  git clone https://github.com/Umuzi-org/Vuyile-Magwaza-236-decision-trees-.git
+  292  ls
+  293  cd Datat_visualisation/
+  294  la
+  295  git cheakout visualisation
+  296  git checkout visualisation
+  297  git merge master
+  298  git checkout master
+  299  git branch
+  300  git merge visualisation
+  301  ls
+  302  git branch
+  303  ls
+  304  git show
+  305  python -m pip install yellowbrick
+  306  ls
+  307  cd Desktop/
+  308  ls
+  309  cd Data\ Science/
+  310  ls
+  311  git clone https://github.com/Umuzi-org/Vuyile-Magwaza-288-git-basic-exercises.git
+  312  CD ~
+  313  cd ..
+  314  ls
+  315  cd ..
+  316  ls
+  317  cd Umuzi/
+  318  ls
+  319  cd Product_team/
+  320  LS
+  321  ls
+  322  cd candidate/
+  323  ls
+  324  cd ls
+  325  cd candidate_recommender/
+  326  ls
+  327  git checkout master
+  328  git checkout feature_builder
+  329  git branch
+  330  cd ..
+  331  ls
+  332  cd ..
+  333  ls
+  334  cd Umuzi/
+  335  LS
+  336  ls
+  337  cd Product_team/
+  338  ls
+  339  cd candidate/
+  340  ls
+  341  source env/bin/activate
+  342  ls
+  343  cd candidate_recommender/
+  344  ls
+  345  cd source
+  346  cd src
+  347  cd features/
+  348  ls
+  349  git branch
+  350  git add /candidate_recommender/src/features/build_features.py
+  351  ls
+  352  git add .
+  353  git commit -m " updated my class"
+  354  git config --global Vuyile23@gmail.com
+  355  git config --global vuyile23@gmail.com
+  356  git config --global 
+  357  git add .
+  358  git commit -m "second commit"
+  359  git config --global user.email vuyile23@gmail.com
+  360  git config --global user.name VeeMagwaza
+  361  git commit -m "second commit"
+  362  git push 
+  363  git branch
+  364  ls
+  365  cd ..
+  366  ls
+  367  cd notebooks/
+  368  git add /model_selection.ipynb
+  369  git add model_selection.ipynb 
+  370  git commit -m "applyied class to notebook"
+  371  git push
+  372  deactivate
+  373  exit
+  374  ls
+  375  cd Desktop/
+  376  ls
+  377  cd Data\ Science/
+  378  ls
+  379  cd Vuyile-Magwaza-236-decision-trees-/
+  380  ls
+  381  git branch
+  382  git checkout -b Tree
+  383  git branch anch
+  384  git branch
+  385  git checkout anch
+  386  git checkout Tree
+  387  git push 
+  388  git push --set-upstream origin Tree
+  389  git checkout Tree
+  390  git add .
+  391  git commit -m "first commit"
+  392  git push
+  393  ls
+  394  cd ..
+  395  ls
+  396  mkdir git-basic-exercises
+  397  cd git-basic-exercises/
+  398  ls -a
+  399  git init
+  400  la
+  401  ls
+  402  cd Umuzi/
+  403  ls
+  404  cd ..
+  405  ls
+  406  cd Desktop/
+  407  ls
+  408  cd Data\ Science/
+  409  ls
+  410  cd Vuyile-Magwaza-288-git-basic-exercises/
+  411  ls
+  412  git checkout -b milkshake-flavours
+  413  git branch
+  414  nano milkshakes.md
+  415  git status
+  416  git add . 
+  417  git commit -m "added initial flavours"
+  418  git push
+  419  git push --set-upstream origin milkshake-flavour
+  420  git branch
+  421  git push --set-upstream origin milkshake-flavour
+  422  git checkout master
+  423  git push --set-upstream origin milkshake-flavour
+  424  ls
+  425  git branch *
+  426  git branch 
+  427  git push --set-upstream origin milkshake-flavour
+  428  cd ..
+  429  ls
+  430  cd Vuyile-Magwaza-288-git-basic-exercises/
+  431  cd ..
+  432  ls
+  433  git clone https://github.com/Umuzi-org/Vuyile-Magwaza-288-git-basic-exercises.git
+  434  ls
+  435  cd Vuyile-Magwaza-288
+  436  cd Vuyile-Magwaza-288-git-basic-exercises/
+  437  git branch
+  438  git checkout -b milkshake-flavours
+  439  git branch
+  440  git  puch
+  441  git push 
+  442  git push --set-upstream origin milkshake-flavours
+  443  nano milkshakes.md
+  444  LS
+  445  git add .
+  446  git commit -m "added initial flavours"
+  447  git push
+  448  git status
+  449  git checkout 
+  450  git checkout master
+  451  git checkout -b history
+  452  git log
+  453  git branch
+  454  history > history.txt
+  455  ls
+  456  git push
+  457  git push --set-upstream origin history
+  458  git add .
+  459  git commit -m "added history"
+  460  git checkout milkshake-flavours 
+  461  git log
+  462  ls
+  463  nano README.md 
+  464  git add README.md
+  465  git commit -m "random readme changes"
+  466  git push
+  467  git checkout history 
+  468  cat README.md
+  469  git checkout milkshake-flavours 
+  470  git checkout master
+  471  git merge milkshake-flavour
+  472  git branch
+  473  git merge milkshake-flavours
+  474  ls
+  475  git checkout history 
+  476  git merge master
+  477  git log
+  478  history > history.txt
